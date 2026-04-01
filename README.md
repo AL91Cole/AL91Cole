@@ -1,16 +1,21 @@
-## Hi there 👋
+# Al Cole
 
-<!--
-**AL91Cole/AL91Cole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student building practical projects in zero trust, active defense, security engineering, and IT support.
 
-Here are some ideas to get you started:
+## Featured Project
+### AI Guardian Assistant: Project Labyrinth
+A defensive zero-trust security simulator built with Next.js, Tailwind CSS, and SQLite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Dynamic allow / deny / route decisioning
+- Owner-only private vault simulation
+- Policy matrix and least-privilege enforcement
+- Labyrinth deception environment for suspicious sessions
+- Audit and threat intelligence logging
+
+## Current Focus
+- Cybersecurity portfolio projects
+- Security engineering and defensive architecture
+- IT support and real-world systems troubleshooting
+
+## Tech
+Next.js · React · Tailwind CSS · SQLite · Python · PowerShell · Windows · Linux
