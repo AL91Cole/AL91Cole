@@ -2,8 +2,9 @@
   <img src="./github_header.png" alt="Al Cole GitHub Header" width="100%" />
 </p>
 
-<h1 align="center">Al Cole</h1>
-<h3 align="center">Cybersecurity Student | Zero Trust Builder | Defensive Security Engineer | Ethical AI Security</h3>
+<p align="center">
+  <strong>Cybersecurity Portfolio • Zero Trust • IAM • SOC • Defensive Security Engineering • Ethical AI Security</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alan91cole">
@@ -28,7 +29,7 @@
 
 ## About Me
 
-I am a cybersecurity student at the **University at Albany** building practical projects focused on **zero trust, active defense, security engineering, browser security, and IT support**.
+I am a cybersecurity student at the **University at Albany** building practical portfolio projects focused on **zero trust, active defense, security engineering, browser security, and IT support**.
 
 My work is shaped by both technical training and my academic background in **AI Ethics & Philosophy**, which influences how I think about trust, privacy, access control, explainability, and responsible security design.
 
@@ -186,7 +187,6 @@ My academic path combines technical cybersecurity study with ethical and human-c
 ## Current Focus
 
 I am currently focused on:
-
 - Expanding practical cybersecurity portfolio projects
 - Strengthening defensive architecture and zero-trust design skills
 - Building projects aligned with SOC and security engineering workflows
@@ -221,7 +221,6 @@ I am currently focused on:
 ## Career Direction
 
 I am building toward opportunities in:
-
 - Security Operations Center (SOC)
 - Junior Security Analyst roles
 - Security Engineering pathways
@@ -235,16 +234,16 @@ I am building toward opportunities in:
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AL91Cole&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL91Cole&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AL91Cole&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL91Cole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL91Cole&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AL91Cole&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AL91Cole&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AL91Cole&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
