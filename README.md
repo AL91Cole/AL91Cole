@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="./github-header.png" alt="Al Cole GitHub Header" width="100%" />
+  <img src="./github_header.png" alt="Alan Cole GitHub Header" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Cybersecurity Portfolio • Zero Trust • IAM • SOC • Defensive Security Engineering • Ethical AI Security</strong>
+  <strong>Alan Cole</strong> • Preferred Name: <strong>Al</strong>
+</p>
+
+<p align="center">
+  Cybersecurity Portfolio • Zero Trust • IAM • SOC • Defensive Security Engineering • Ethical AI Security
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alan91cole">
-    <img src="https://img.shields.io/badge/LinkedIn-Al%20Cole-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Alan%20Cole-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AL91Cole">
     <img src="https://img.shields.io/badge/GitHub-AL91Cole-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -29,21 +33,23 @@
 
 ## About Me
 
-I am a cybersecurity student at the **University at Albany** building practical portfolio projects focused on **zero trust, active defense, security engineering, browser security, and IT support**.
+I am **Alan Cole** (**Al**) — a cybersecurity student at the **University at Albany** building practical portfolio projects focused on **zero trust, active defense, security engineering, browser security, and IT support**.
 
-My work is shaped by both technical training and my academic background in **AI Ethics & Philosophy**, which influences how I think about trust, privacy, access control, explainability, and responsible security design.
+My work is shaped by both technical security training and my academic background in **AI Ethics & Philosophy**, which influences how I think about trust, privacy, access control, explainability, and responsible security design.
 
-I am especially interested in building systems that do more than block threats. I want to build security tools that can **evaluate trust intelligently, enforce least privilege, detect risk early, explain decisions clearly, and protect real people in real environments**.
+I am especially interested in building systems that do more than simply block threats. I want to build security tools that can **evaluate trust intelligently, enforce least privilege, detect risk early, explain decisions clearly, and protect real people in real environments**.
 
 ---
 
-## Professional Focus
+## Professional Profile
 
-- **B.S. in Cybersecurity** at the University at Albany
-- **Self-Designed Concentration:** AI-Driven Cybersecurity & Ethical Hacking
-- **Minor:** AI Ethics & Philosophy
-- Portfolio emphasis on **Zero Trust, SOC-aligned defense, access control, risk scoring, and user protection**
-- Building toward **SOC Analyst, Security Analyst, IAM, and Security Engineering** opportunities
+- **Professional Name:** Alan Cole  
+- **Preferred Name:** Al  
+- **B.S. in Cybersecurity** — University at Albany  
+- **Concentration:** AI-Driven Cybersecurity & Ethical Hacking  
+- **Minor:** AI Ethics & Philosophy  
+- Portfolio focus on **Zero Trust, SOC-aligned defense, access control, risk scoring, and user protection**
+- Career direction toward **SOC Analyst, Security Analyst, IAM, IT Security, and Security Engineering** roles
 
 ---
 
@@ -52,7 +58,7 @@ I am especially interested in building systems that do more than block threats. 
 ### AI Guardian Assistant: Project Labyrinth
 A defensive **zero-trust security simulator** built with **Next.js, React, Tailwind CSS, and SQLite**.
 
-Project Labyrinth demonstrates how modern systems can evaluate access requests dynamically using contextual security signals rather than relying on static permissions alone.
+Project Labyrinth demonstrates how modern systems can evaluate access requests dynamically using contextual security signals instead of relying only on static permissions.
 
 #### Highlights
 - Dynamic **Allow / Deny / Route** decision engine
@@ -60,7 +66,12 @@ Project Labyrinth demonstrates how modern systems can evaluate access requests d
 - Policy matrix and least-privilege enforcement
 - Labyrinth deception environment for suspicious sessions
 - Audit and threat intelligence logging
-- Context-aware decisioning based on MFA, device trust, unusual location, anomaly scoring, and role sensitivity
+- Context-aware decisioning based on:
+  - MFA verification
+  - device trust
+  - unusual login location indicators
+  - anomaly scoring
+  - role and resource sensitivity
 
 #### Core Themes
 `Zero Trust` `Least Privilege` `Adaptive Access Control` `Defensive Security Design` `Threat Awareness` `Deception Defense`
@@ -117,8 +128,10 @@ My academic path combines technical cybersecurity study with ethical and human-c
 
 ### Security
 - Cybersecurity
+- Cybersecurity Fundamentals
 - Security Operations (SOC)
 - Threat Detection
+- Threat Detection & Incident Response
 - Incident Response
 - Identity & Access Management
 - Access Control
@@ -130,25 +143,37 @@ My academic path combines technical cybersecurity study with ethical and human-c
 - Governance, Risk, and Compliance
 - Vulnerability Assessment
 - Security Awareness
+- Malware Analysis
+- Web Application Security
+- Network Traffic Analysis
+- Password Management
+- Security Management
+- Cybersecurity Strategy
 
 ### Systems and Networking
 - Windows
 - Linux
+- Operating Systems
 - TCP/IP
 - DNS
 - DHCP
 - VPN
-- Wireless Networking
+- Networking
+- Network Communications
 - Network Administration
-- Operating Systems
+- Network Design
+- Wireless Networking
+- Computer Hardware
 - Desktop Support
-- Hardware Troubleshooting
 - IT Support & Troubleshooting
+- Information Technology Fundamentals
+- Computer Systems Architecture
+- Infrastructure Security
 
-### Development
+### Development and Tools
 - JavaScript
 - Next.js
-- React
+- React.js
 - Tailwind CSS
 - SQLite
 - SQL
@@ -158,13 +183,15 @@ My academic path combines technical cybersecurity study with ethical and human-c
 
 ### Professional Strengths
 - Technical Analysis
+- Technical Acumen
+- Troubleshooting
 - Documentation
 - Report Writing
 - Written Communication
-- Customer Support
-- Troubleshooting
-- Risk Awareness
+- Communication
 - Interpersonal Communication
+- Customer Support
+- Risk Awareness
 
 ---
 
@@ -187,6 +214,7 @@ My academic path combines technical cybersecurity study with ethical and human-c
 ## Current Focus
 
 I am currently focused on:
+
 - Expanding practical cybersecurity portfolio projects
 - Strengthening defensive architecture and zero-trust design skills
 - Building projects aligned with SOC and security engineering workflows
@@ -221,6 +249,7 @@ I am currently focused on:
 ## Career Direction
 
 I am building toward opportunities in:
+
 - Security Operations Center (SOC)
 - Junior Security Analyst roles
 - Security Engineering pathways
@@ -228,15 +257,6 @@ I am building toward opportunities in:
 - IT support with security specialization
 - Defensive cyber operations
 - Ethical AI security and trustworthy systems design
-
----
-
-## GitHub Stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AL91Cole&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 
 ---
