@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AL91Cole/AL91Cole/main/github_header.png" alt="Al Cole GitHub Header" width="100%" />
+  <img src="./github_header.png" alt="Al Cole GitHub Header" width="100%" />
 </p>
 
+<h1 align="center">Al Cole</h1>
 <h3 align="center">Cybersecurity Student | Zero Trust Builder | Defensive Security Engineer | Ethical AI Security</h3>
 
 <p align="center">
@@ -16,31 +17,31 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Zero%20Trust%20Architecture-0D47A1?style=flat-square" alt="Zero Trust Architecture" />
-  <img src="https://img.shields.io/badge/Focus-Security%20Operations%20%28SOC%29-0D47A1?style=flat-square" alt="Security Operations" />
-  <img src="https://img.shields.io/badge/Focus-Incident%20Response-0D47A1?style=flat-square" alt="Incident Response" />
-  <img src="https://img.shields.io/badge/Focus-Identity%20%26%20Access%20Management-0D47A1?style=flat-square" alt="IAM" />
-  <img src="https://img.shields.io/badge/Focus-Defensive%20Security%20Engineering-0D47A1?style=flat-square" alt="Defensive Security Engineering" />
+  <img src="https://img.shields.io/badge/Zero%20Trust-Architecture-0D47A1?style=flat-square" alt="Zero Trust Architecture" />
+  <img src="https://img.shields.io/badge/SOC-Security%20Operations-0D47A1?style=flat-square" alt="Security Operations" />
+  <img src="https://img.shields.io/badge/Incident-Response-0D47A1?style=flat-square" alt="Incident Response" />
+  <img src="https://img.shields.io/badge/IAM-Access%20Control-0D47A1?style=flat-square" alt="Identity and Access Management" />
+  <img src="https://img.shields.io/badge/Defensive-Security%20Engineering-0D47A1?style=flat-square" alt="Defensive Security Engineering" />
 </p>
 
 ---
 
 ## About Me
 
-I am a cybersecurity student at the **University at Albany** building practical portfolio projects focused on **zero trust, active defense, security engineering, browser security, and IT support**.
+I am a cybersecurity student at the **University at Albany** building practical projects focused on **zero trust, active defense, security engineering, browser security, and IT support**.
 
-My work is shaped by both technical security training and my academic background in **AI Ethics & Philosophy**, which influences how I think about trust, privacy, access control, explainability, and responsible security design.
+My work is shaped by both technical training and my academic background in **AI Ethics & Philosophy**, which influences how I think about trust, privacy, access control, explainability, and responsible security design.
 
-I am especially interested in building systems that do more than simply block threats. I want to build security tools that can **evaluate trust intelligently, enforce least privilege, detect risk early, explain decisions clearly, and protect real people in real environments**.
+I am especially interested in building systems that do more than block threats. I want to build security tools that can **evaluate trust intelligently, enforce least privilege, detect risk early, explain decisions clearly, and protect real people in real environments**.
 
 ---
 
-## Professional Snapshot
+## Professional Focus
 
-- Bachelor of Science in **Cybersecurity**
-- Self-designed concentration in **AI-Driven Cybersecurity & Ethical Hacking**
-- Minor in **AI Ethics & Philosophy**
-- Portfolio focus on **Zero Trust, SOC-aligned defense, access control, risk scoring, and user protection**
+- **B.S. in Cybersecurity** at the University at Albany
+- **Self-Designed Concentration:** AI-Driven Cybersecurity & Ethical Hacking
+- **Minor:** AI Ethics & Philosophy
+- Portfolio emphasis on **Zero Trust, SOC-aligned defense, access control, risk scoring, and user protection**
 - Building toward **SOC Analyst, Security Analyst, IAM, and Security Engineering** opportunities
 
 ---
@@ -52,20 +53,15 @@ A defensive **zero-trust security simulator** built with **Next.js, React, Tailw
 
 Project Labyrinth demonstrates how modern systems can evaluate access requests dynamically using contextual security signals rather than relying on static permissions alone.
 
-#### Key Highlights
+#### Highlights
 - Dynamic **Allow / Deny / Route** decision engine
 - Owner-only private vault simulation
 - Policy matrix and least-privilege enforcement
 - Labyrinth deception environment for suspicious sessions
 - Audit and threat intelligence logging
-- Context-aware decisioning based on:
-  - MFA verification
-  - trusted or untrusted device status
-  - unusual login location indicators
-  - anomaly scoring
-  - role and resource sensitivity
+- Context-aware decisioning based on MFA, device trust, unusual location, anomaly scoring, and role sensitivity
 
-#### Core Security Themes
+#### Core Themes
 `Zero Trust` `Least Privilege` `Adaptive Access Control` `Defensive Security Design` `Threat Awareness` `Deception Defense`
 
 #### Repository
@@ -78,7 +74,7 @@ A privacy-first **browser security extension** designed to help users evaluate w
 
 This project reflects my interest in combining **security awareness, browser risk evaluation, and human-centered security design**.
 
-#### Key Highlights
+#### Highlights
 - Live website risk scoring
 - Risk indicators in search results
 - Suspicious download and link warnings
@@ -86,7 +82,7 @@ This project reflects my interest in combining **security awareness, browser ris
 - Simple **Learn Why** explanations for flagged risks
 - Privacy-first design with a local-analysis mindset
 
-#### Core Security Themes
+#### Core Themes
 `Browser Security` `Threat Detection Concepts` `Phishing Awareness` `Security UX` `Risk Communication` `Privacy-First Design`
 
 #### Repository
@@ -106,12 +102,13 @@ My academic path combines technical cybersecurity study with ethical and human-c
 ### Areas of Interest
 - Zero Trust Architecture
 - Identity and Access Management
-- Security Operations and threat detection
-- Incident response concepts
-- Defensive security engineering
-- Ethical AI security
-- Privacy-aware system design
-- Trustworthy and explainable security systems
+- Security Operations
+- Threat Detection
+- Incident Response
+- Defensive Security Engineering
+- Ethical AI Security
+- Privacy-aware System Design
+- Trustworthy and Explainable Security Systems
 
 ---
 
@@ -160,12 +157,12 @@ My academic path combines technical cybersecurity study with ethical and human-c
 
 ### Professional Strengths
 - Technical Analysis
+- Documentation
 - Report Writing
 - Written Communication
 - Customer Support
 - Troubleshooting
 - Risk Awareness
-- Documentation
 - Interpersonal Communication
 
 ---
@@ -261,7 +258,7 @@ I am building toward opportunities in:
 
 ---
 
-## Profile Motto
+## Motto
 
 <p align="center">
   <strong>Building security tools that think critically, defend intelligently, and put trust, privacy, and people first.</strong>
