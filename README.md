@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alan91cole">
-    <img src="https://img.shields.io/badge/LinkedIn-Alan%20Cole-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AL91Cole">
-    <img src="https://img.shields.io/badge/GitHub-AL91Cole-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/UAlbany-Cybersecurity-46166B?style=for-the-badge" alt="UAlbany Cybersecurity" />
   <img src="https://img.shields.io/badge/Minor-AI%20Ethics%20%26%20Philosophy-6A1B9A?style=for-the-badge" alt="AI Ethics and Philosophy" />
