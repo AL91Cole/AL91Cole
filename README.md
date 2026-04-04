@@ -2,13 +2,6 @@
   <img src="./github-header.png" alt="Alan Cole GitHub Header" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Alan Cole</strong> • Preferred Name: <strong>Al</strong>
-</p>
-
-<p align="center">
-  Cybersecurity Portfolio • Zero Trust • IAM • SOC • Defensive Security Engineering • Ethical AI Security
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alan91cole">
