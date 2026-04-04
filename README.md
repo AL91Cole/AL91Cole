@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/AL91Cole/AL91Cole/main/github_header.png" alt="Al Cole GitHub Header" width="100%" />
 </p>
 
-<h1 align="center">Al Cole</h1>
 <h3 align="center">Cybersecurity Student | Zero Trust Builder | Defensive Security Engineer | Ethical AI Security</h3>
 
 <p align="center">
