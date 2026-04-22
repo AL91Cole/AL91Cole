@@ -84,6 +84,12 @@ Behavior-aware decision logic
 Security logging and event visibility  
 Threat-aware defensive design  
 
+**Insights from hands-on lab training are applied in Project Labyrinth to simulate:**
+
+• security monitoring and alert generation  
+• identity-aware access decisions  
+• anomaly-based threat detection  
+
 ---
 
 ### AI Guardian Web Shield
@@ -241,10 +247,35 @@ Applied skills developed through hands-on projects, simulations, and lab-based l
 
 ## Hands-On Training
 
-🧪 **TryHackMe Profile**  
+🧪 **TryHackMe (Hands-On Cybersecurity Labs)**  
 https://tryhackme.com/p/Alan91Cole  
 
+**Certifications:**
+• Cyber Security 101 (SEC1)  
+• Pre Security (SEC0)  
+
 Hands-on lab experience covering networking, Linux systems, web security, and foundational threat detection. Reinforces practical skills in security analysis, system behavior, and attack surface awareness.
+
+Supports development of SOC workflows, threat detection, and system-level security analysis.
+
+Focus areas include:
+• Network traffic analysis  
+• Web application security  
+• Security operations fundamentals  
+• Credential and password attack concepts  
+
+### Skill Development Snapshot (TryHackMe)
+
+Hands-on lab progression indicates the strongest development in:
+
+• Security Operations and monitoring workflows  
+• Identity Security and access control  
+• Threat detection and behavioral analysis  
+
+Currently expanding skills in:
+
+• Incident response workflows  
+• Advanced attack techniques and exploitation  
 
 ---
 
