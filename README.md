@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alan91cole">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
   <img src="https://img.shields.io/badge/UAlbany-AI--Driven%20Cybersecurity-46166B?style=for-the-badge" />
 
