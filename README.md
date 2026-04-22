@@ -6,19 +6,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alan91cole">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a>&nbsp;
 
-  <img src="https://img.shields.io/badge/UAlbany-AI--Driven%20Cybersecurity-46166B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UAlbany-AI--Driven%20Cybersecurity-46166B?style=for-the-badge" />&nbsp;
 
   <img src="https://img.shields.io/badge/Minor-AI%20Ethics%20%26%20Philosophy-6A1B9A?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Zero%20Trust%20Architecture-0D47A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Threat%20Detection-0D47A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Incident%20Response-0D47A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/IAM%20%26%20Access%20Control-0D47A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Explainable%20Security-0D47A1?style=flat-square" />
 </p>
 
 ---
