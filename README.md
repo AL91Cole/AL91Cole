@@ -101,7 +101,10 @@ User-focused defensive tooling
 Security communication design  
 Risk visibility strategies  
 
-Repository:
+🔗 **Live Chrome Extension:**  
+https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden
+
+🔗 **Repository:**  
 https://github.com/AL91Cole/ai-guardian-web-shield
 
 ---
