@@ -83,29 +83,37 @@ https://github.com/AL91Cole/ai-guardian-assistant-project-labyrinth
 
 ### AI Guardian Web Shield
 
-Browser-based security awareness tool emphasizing risk visibility and user decision support.
+Privacy-first browser security assistant designed to help users identify risky websites, suspicious links, and potential phishing threats in real time through clear, explainable security insights.
 
-Key capabilities:
+🛡️ **Live Chrome Extension (Install & Test):**  
+https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden
 
-• contextual site risk evaluation concepts  
-• suspicious link pattern awareness  
-• download risk signaling concepts  
-• human-readable explanation-first security messaging  
-• privacy-conscious architecture approach  
+💻 **Repository:**  
+https://github.com/AL91Cole/ai-guardian-web-shield
 
-Security concepts demonstrated:
+---
+
+### Key Capabilities
+
+• contextual site risk evaluation based on page behavior and patterns  
+• suspicious link and phishing indicator detection  
+• download risk awareness and signaling  
+• explanation-first security messaging for non-technical users  
+• privacy-conscious, local-first analysis approach  
+
+---
+
+### Security Concepts Demonstrated
 
 Browser security awareness  
-Phishing risk indicators  
+Phishing detection principles  
 User-focused defensive tooling  
 Security communication design  
-Risk visibility strategies  
+Risk visibility and decision support  
 
-**Live Chrome Extension**: 
-**https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden**
+---
 
-Repository:
-https://github.com/AL91Cole/ai-guardian-web-shield
+👉 Install the extension and visit any website to see real-time risk insights
 
 ---
 
