@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header.png" alt="Alan Cole Cybersecurity Header" width="100%" />
+  <img src="./Portfolio_Header26.png" alt="Alan Cole AI Cybersecurity Header" width="100%" />
 </p>
 
 
