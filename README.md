@@ -25,21 +25,23 @@
 
 ## Profile
 
-Cybersecurity practitioner focused on designing **risk-aware, identity-informed defensive systems** aligned with modern Zero Trust principles.
+Cybersecurity practitioner focused on designing risk-aware, identity-informed defensive systems aligned with modern Zero Trust principles.
 
-Portfolio work emphasizes practical implementations of:
+Builds practical security projects that simulate real-world access control decisions, threat detection scenarios, and user-focused defensive tooling.
 
-• least privilege access control  
-• contextual authentication logic  
-• defensive telemetry concepts  
-• user-centered security tooling  
-• transparent and explainable decision systems  
+Portfolio work emphasizes:
 
-Academic concentration in **AI-driven cybersecurity** combined with a minor in **AI Ethics & Philosophy** informs a design approach that prioritizes **security effectiveness, accountability, and human impact**.
+• least privilege access control and policy enforcement  
+• contextual authentication and risk-based decision logic  
+• security telemetry and structured logging concepts  
+• user-centered security tools with explainable outputs  
+• transparent, accountable, and ethical security design  
 
-Interested in contributing to teams responsible for:
+Academic concentration in AI-driven cybersecurity, combined with a minor in AI Ethics & Philosophy, informs a design approach that prioritizes security effectiveness, accountability, and human impact.
 
-Security Operations • Identity Security • Threat Detection • Security Engineering • Secure Systems Architecture
+Interested in contributing to:
+
+Security Operations (SOC) • Identity Security (IAM) • Threat Detection • Security Engineering
 
 ---
 
