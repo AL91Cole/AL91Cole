@@ -15,10 +15,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Zero%20Trust%20Architecture-0D47A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/SOC%20%26%20Threat%20Detection-0D47A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat%20Detection-0D47A1?style=flat-square" />
   <img src="https://img.shields.io/badge/Incident%20Response-0D47A1?style=flat-square" />
   <img src="https://img.shields.io/badge/IAM%20%26%20Access%20Control-0D47A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Explainable%20Security-0D47A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Explainable%20Security&20Engineering-0D47A1?style=flat-square" />
 </p>
 
 ---
