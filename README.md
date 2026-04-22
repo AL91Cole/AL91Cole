@@ -239,6 +239,15 @@ Applied skills developed through hands-on projects, simulations, and lab-based l
 
 <hr>
 
+## Hands-On Training
+
+🧪 **TryHackMe Profile**  
+https://tryhackme.com/p/Alan91Cole  
+
+Hands-on lab experience covering networking, Linux systems, web security, and foundational threat detection. Reinforces practical skills in security analysis, system behavior, and attack surface awareness.
+
+---
+
 ## Current Development Focus
 
 Expanding portfolio depth through hands-on projects and simulations in:
