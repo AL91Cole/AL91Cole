@@ -102,7 +102,7 @@ Security communication design
 Risk visibility strategies  
 
 **Live Chrome Extension**: 
-https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden
+**https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden**
 
 Repository:
 https://github.com/AL91Cole/ai-guardian-web-shield
