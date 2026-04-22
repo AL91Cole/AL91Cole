@@ -126,22 +126,23 @@ Risk visibility and decision support
 
 ## Education
 
-University at Albany  
-Bachelor of Science — Cybersecurity
+**University at Albany (SUNY)**  
+Bachelor of Science — Cybersecurity  
 
-Concentration:
-AI-Driven Cybersecurity & Ethical Hacking
+**Concentration:** AI-Driven Cybersecurity & Ethical Hacking  
+**Minor:** AI Ethics & Philosophy  
 
-Minor:
-AI Ethics & Philosophy
+**Relevant Focus Areas**
 
-Relevant focus areas:
+• Identity and access management (IAM)  
+• Access control architecture and policy design  
+• Threat detection and security monitoring concepts  
+• Secure system design and defensive architecture  
+• Responsible and ethical AI systems   
 
-Identity security  
-Access control architecture  
-Threat detection concepts  
-Secure system design  
-Responsible AI systems  
+---
+
+Focused on applying Zero Trust principles and identity-aware security design to real-world systems.
 
 ---
 
@@ -149,68 +150,72 @@ Responsible AI systems
 
 ## Core Competencies
 
-### Security Engineering Concepts
+Applied skills developed through hands-on projects, simulations, and lab-based learning.
 
-Zero Trust Architecture  
-Identity & Access Management (IAM)  
-Role-Based Access Control (RBAC)  
-Least Privilege Principles  
-Authentication & Authorization Concepts  
-Threat Detection Concepts  
-Incident Response Concepts  
-Security Logging Concepts  
-Defense-in-depth Principles  
-Risk-based decision logic  
+### Security Engineering
 
-### Security Operations Foundations
+• Zero Trust architecture and identity-aware access design  
+• Identity & Access Management (IAM) and RBAC enforcement  
+• Least privilege implementation and policy design  
+• Authentication and authorization workflows  
+• Threat detection concepts and behavioral analysis  
+• Incident response fundamentals and triage thinking  
+• Security logging and event visibility concepts  
+• Defense-in-depth strategy  
+• Risk-based decision logic  
 
-Security Operations Center (SOC) concepts  
-Threat analysis fundamentals  
-Security event interpretation  
-Log review methodology  
-Attack surface awareness  
-Vulnerability awareness  
-Phishing indicators  
-Endpoint risk awareness  
+---
+
+### Security Operations (SOC Foundations)
+
+• Security Operations Center (SOC) workflows  
+• Threat analysis and security event interpretation  
+• Log review and anomaly identification  
+• Attack surface awareness and basic threat modeling  
+• Vulnerability awareness and risk prioritization  
+• Phishing detection and user risk indicators  
+• Endpoint risk awareness  
+
+---
 
 ### Systems & Infrastructure
 
-Windows  
-Linux  
-TCP/IP networking  
-DNS  
-DHCP  
-VPN concepts  
-Endpoint troubleshooting  
-Operating systems  
-System hardening concepts  
+• Windows and Linux environments  
+• TCP/IP networking fundamentals  
+• DNS, DHCP, and VPN concepts  
+• Endpoint troubleshooting  
+• Operating system fundamentals  
+• System hardening concepts  
+
+---
 
 ### Development & Technical Tools
 
-JavaScript  
-React  
-Next.js  
-Tailwind CSS  
-SQLite  
-SQL  
-Python fundamentals  
-PowerShell fundamentals  
+• JavaScript, React, Next.js  
+• Tailwind CSS  
+• SQLite and SQL fundamentals  
+• Python fundamentals  
+• PowerShell fundamentals  
+
+---
 
 ### Professional Capabilities
 
-Technical documentation  
-Analytical reasoning  
-Troubleshooting methodology  
-Written communication  
-Pattern recognition  
-Security-focused thinking  
-Attention to detail  
+• Technical documentation  
+• Analytical reasoning  
+• Troubleshooting methodology  
+• Clear, structured communication  
+• Pattern recognition and problem solving  
+• Security-focused thinking  
+• Attention to detail  
+
+---
 
 ### Practical Exposure
 
-Basic log analysis (simulated audit logs in Project Labyrinth)
-TryHackMe labs (networking, Linux, web security)
-Security event interpretation practice
+• Log analysis using simulated audit logs (Project Labyrinth)  
+• Hands-on labs via TryHackMe (networking, Linux, web security)  
+• Security event interpretation and basic investigation workflows  
 
 ---
 
@@ -220,14 +225,15 @@ Security event interpretation practice
 
 | Domain | Capabilities |
 |--------|-------------|
-| Identity Security | IAM, RBAC, authentication logic |
-| Defensive Architecture | Zero Trust modeling |
-| Security Monitoring | logging strategy concepts |
-| Risk Evaluation | contextual decision logic |
-| Endpoint Support | OS troubleshooting |
-| Networking | TCP/IP, DNS, DHCP |
-| Secure Development | React, Next.js |
-| Responsible AI | ethics-informed design |
+| Identity Security | IAM, RBAC, authentication & authorization logic |
+| Defensive Architecture | Zero Trust architecture and policy enforcement |
+| Security Monitoring | Security logging and event visibility |
+| Risk Evaluation | Contextual risk analysis and decision logic |
+| Endpoint Support | OS troubleshooting (Windows/Linux) |
+| Networking | TCP/IP, DNS, DHCP fundamentals |
+| Secure Development | React, Next.js (security-focused UI design) |
+| Responsible AI | Ethical, explainable security design |
+| Threat Detection | Behavioral analysis and anomaly identification |
 
 ---
 
@@ -235,14 +241,15 @@ Security event interpretation practice
 
 ## Current Development Focus
 
-Expanding portfolio depth in:
+Expanding portfolio depth through hands-on projects and simulations in:
 
-• identity-aware system design  
-• defensive decision modeling  
-• practical Zero Trust architecture concepts  
-• security telemetry visibility concepts  
-• user-protective tooling  
-• applied ethical security design  
+• identity-aware system design and access control workflows  
+• defensive decision modeling using contextual risk signals  
+• practical Zero Trust architecture implementation  
+• security telemetry and event visibility concepts  
+• user-protective security tooling and UX design  
+• ethical and explainable security system design
+• simulated threat detection and anomaly-based alerting workflows
 
 ---
 
@@ -250,25 +257,30 @@ Expanding portfolio depth in:
 
 ## Professional Direction
 
-Actively developing capabilities aligned with:
+Actively developing capabilities to contribute in:
 
-Primary: Security Operations (SOC) / Threat Detection  
-Secondary: Identity & Access Management (IAM)
+**Primary:** Security Operations (SOC) and Threat Detection  
+**Secondary:** Identity & Access Management (IAM)  
 
+Focused on applying Zero Trust principles, behavioral analysis, and identity-aware security design to real-world defensive systems.
 ---
 
 <hr>
 
 ## Contact
 
-LinkedIn  
-https://www.linkedin.com/in/alan91cole
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/alan91cole  
 
-GitHub  
-https://github.com/AL91Cole
+💻 **GitHub**  
+https://github.com/AL91Cole  
 
 ---
 
 ## Guiding Principle
 
 Security should be technically strong, ethically grounded, and designed with real users in mind.
+
+Building systems that balance protection, transparency, and human impact.
+
+— Alan Cole
