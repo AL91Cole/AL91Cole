@@ -49,35 +49,38 @@ Security Operations • Identity Security • Threat Detection • Security Engi
 
 ### AI Guardian Assistant — Project Labyrinth
 
-Zero Trust security simulation platform demonstrating contextual access evaluation and defensive decision routing.
+Zero Trust security simulation platform designed to model how modern systems evaluate access requests using identity, behavior, and contextual risk signals.
 
-Simulated SOC-style alert generation based on anomalous access behavior
+Simulates SOC-style alert generation based on anomalous access activity and decision outcomes.
 
-This project simulates how modern organizations evaluate access requests under Zero Trust principles, helping illustrate how identity, behavior, and context influence real-world security decisions.
+This project demonstrates how organizations apply Zero Trust principles to enforce access control, detect suspicious behavior, and support security decision-making in real-world environments.
 
-Tech stack:
-Next.js • React • Tailwind • SQLite
+🧠 **Tech Stack:** Next.js • React • Tailwind • SQLite  
 
-Key capabilities:
+🔗 **Repository:**  
+https://github.com/AL91Cole/ai-guardian-assistant-project-labyrinth
 
-• dynamic allow/deny / route logic  
-• Simulated identity-aware access decisions using contextual risk signals (device trust, anomaly score)  
-• least privilege policy modeling  
-• anomaly-aware decision factors  
-• private vault access boundaries  
-• structured audit logging concepts  
-• deception routing for suspicious sessions  
+---
 
-Security concepts demonstrated:
+### Key Capabilities
+
+• dynamic allow/deny / route decision logic  
+• identity-aware access evaluation using contextual risk signals (device trust, anomaly score)  
+• least privilege policy modeling and enforcement  
+• anomaly-aware decision factors for adaptive access control  
+• private vault with strict access boundaries  
+• structured audit logging simulating SOC-style event visibility  
+• deception routing (Labyrinth) for suspicious or high-risk sessions  
+
+---
+
+### Security Concepts Demonstrated
 
 Zero Trust Architecture  
 Policy-based access control  
 Behavior-aware decision logic  
-Structured logging approach simulating SOC-level event visibility
+Security logging and event visibility  
 Threat-aware defensive design  
-
-Repository:
-https://github.com/AL91Cole/ai-guardian-assistant-project-labyrinth
 
 ---
 
