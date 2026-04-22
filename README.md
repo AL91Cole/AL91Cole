@@ -51,13 +51,17 @@ Security Operations • Identity Security • Threat Detection • Security Engi
 
 Zero Trust security simulation platform demonstrating contextual access evaluation and defensive decision routing.
 
+Simulated SOC-style alert generation based on anomalous access behavior
+
+This project simulates how modern organizations evaluate access requests under Zero Trust principles, helping illustrate how identity, behavior, and context influence real-world security decisions.
+
 Tech stack:
 Next.js • React • Tailwind • SQLite
 
 Key capabilities:
 
-• dynamic allow / deny / route logic  
-• identity-aware access simulation  
+• dynamic allow/deny / route logic  
+• Simulated identity-aware access decisions using contextual risk signals (device trust, anomaly score)  
 • least privilege policy modeling  
 • anomaly-aware decision factors  
 • private vault access boundaries  
@@ -69,7 +73,7 @@ Security concepts demonstrated:
 Zero Trust Architecture  
 Policy-based access control  
 Behavior-aware decision logic  
-Security logging strategy  
+Structured logging approach simulating SOC-level event visibility
 Threat-aware defensive design  
 
 Repository:
@@ -186,6 +190,12 @@ Pattern recognition
 Security-focused thinking  
 Attention to detail  
 
+### Practical Exposure
+
+Basic log analysis (simulated audit logs in Project Labyrinth)
+TryHackMe labs (networking, Linux, web security)
+Security event interpretation practice
+
 ---
 
 <hr>
@@ -226,12 +236,8 @@ Expanding portfolio depth in:
 
 Actively developing capabilities aligned with:
 
-Security Operations Center (SOC)  
-Junior Security Analyst  
-IAM Analyst  
-Security Engineering  
-IT Security  
-Defensive Cybersecurity  
+Primary: Security Operations (SOC) / Threat Detection  
+Secondary: Identity & Access Management (IAM)
 
 ---
 
