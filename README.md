@@ -250,13 +250,15 @@ Applied skills developed through hands-on projects, simulations, and lab-based l
 🧪 **TryHackMe (Hands-On Cybersecurity Labs)**  
 https://tryhackme.com/p/Alan91Cole  
 
+Actively completing guided cybersecurity pathways and real-world simulation labs.
+
 **Certifications**  
 • Cyber Security 101 (SEC1)  
 • Pre Security (SEC0)  
 
 Hands-on lab experience across networking, Linux systems, web security, and foundational threat detection, reinforcing practical skills in security analysis, system behavior, and attack surface awareness.
 
-Supports development of SOC workflows, threat detection, and system-level security analysis.
+Directly supports development of SOC workflows, threat detection, and system-level security analysis.
 
 Applies lab-based learning to simulate real-world security scenarios, including monitoring, detection, and access control decision-making.
 
