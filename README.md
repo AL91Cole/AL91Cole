@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <img src="https://img.shields.io/badge/UAlbany-AI-Driven Cybersecurity-46166B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UAlbany-AIDriven Cybersecurity-46166B?style=for-the-badge" />
 
   <img src="https://img.shields.io/badge/Minor-AI%20Ethics%20%26%20Philosophy-6A1B9A?style=for-the-badge" />
 </p>
