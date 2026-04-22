@@ -263,6 +263,7 @@ Actively developing capabilities to contribute in:
 **Secondary:** Identity & Access Management (IAM)  
 
 Focused on applying Zero Trust principles, behavioral analysis, and identity-aware security design to real-world defensive systems.
+
 ---
 
 <hr>
