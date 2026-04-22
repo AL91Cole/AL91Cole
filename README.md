@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Threat%20Detection-0D47A1?style=flat-square" />
   <img src="https://img.shields.io/badge/Incident%20Response-0D47A1?style=flat-square" />
   <img src="https://img.shields.io/badge/IAM%20%26%20Access%20Control-0D47A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Explainable%20Security&20Engineering-0D47A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Explainable%20Security Engineering-0D47A1?style=flat-square" />
 </p>
 
 ---
