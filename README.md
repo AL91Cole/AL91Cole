@@ -39,6 +39,8 @@ Portfolio work emphasizes:
 
 Academic concentration in AI-driven cybersecurity, combined with a minor in AI Ethics & Philosophy, informs a design approach that prioritizes security effectiveness, accountability, and human impact.
 
+I build security systems that think before they trust.
+
 Interested in contributing to:
 
 Security Operations (SOC) • Identity Security (IAM) • Threat Detection • Security Engineering
@@ -47,9 +49,28 @@ Security Operations (SOC) • Identity Security (IAM) • Threat Detection • S
 
 <hr>
 
+🧠 Core Mission
+
+To design and build an AI Guardian Assistant — a system that protects users in real time by combining:
+
+AI-driven decision support
+cybersecurity defense
+privacy protection
+identity-aware access control
+
+The goal is to create technology that not only detects threats but also helps users understand and respond to them safely.
+
+---
+
+<hr>
+
 ## Featured Work
 
 ### AI Guardian Assistant — Project Labyrinth
+
+Designed to simulate how modern organizations make real-time access decisions under uncertainty, using Zero Trust principles and contextual risk signals.
+
+Demonstrates how security systems can move beyond static rules to dynamic, behavior-aware decision-making.
 
 Zero Trust security simulation platform designed to model how modern systems evaluate access requests using identity, behavior, and contextual risk signals.
 
@@ -125,6 +146,8 @@ Risk visibility and decision support
 ---
 
 👉 Install the extension and visit any website to see real-time risk insights
+
+Focuses on bridging the gap between technical security detection and real user understanding, making cybersecurity more accessible and actionable.
 
 ---
 
@@ -239,7 +262,7 @@ Applied skills developed through hands-on projects, simulations, and lab-based l
 | Networking | TCP/IP, DNS, DHCP fundamentals |
 | Secure Development | React, Next.js (security-focused UI design) |
 | Responsible AI | Ethical, explainable security design |
-| Threat Detection | Behavioral analysis and anomaly identification |
+| Threat Detection | Behavioral analysis | anomaly detection | Alert-Driven Response Logic
 
 ---
 
