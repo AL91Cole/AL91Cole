@@ -25,7 +25,7 @@
 
 ## Profile
 
-Cybersecurity practitioner focused on designing risk-aware, identity-informed defensive systems aligned with modern Zero Trust principles.
+Cybersecurity builder focused on designing Zero Trust, identity-aware defensive systems that improve how users and organizations make security decisions.
 
 Builds practical security projects that simulate real-world access control decisions, threat detection scenarios, and user-focused defensive tooling.
 
