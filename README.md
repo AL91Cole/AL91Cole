@@ -16,7 +16,7 @@
 
 # Alan "Al" Cole
 
-**Computer Technical Assistant | Cybersecurity Senior | Founder, CTRL+J Juice Lounge & IT Hub LLC**
+**Computer Technical Assistant | Cybersecurity Senior | Founder, CTRL+J Juice Lounge & IT Hub™ LLC**
 
 **Based in:** Mohawk Valley, New York
 
@@ -34,7 +34,7 @@ I build privacy-conscious, human-centered defensive systems connecting Zero Trus
   - B.S. in Cybersecurity, expected May 2027
   - Self-designed concentration: AI-Driven Cybersecurity & Ethical Hacking
   - Minor: AI Ethics & Philosophy
-- **Founder — CTRL+J Juice Lounge & IT Hub LLC**
+- **Founder — CTRL+J Juice Lounge & IT Hub™ LLC**
   - Developing an inclusive community technology venture for the Mohawk Valley.
 
 ## Featured Work
@@ -75,7 +75,7 @@ A living research repository connecting moral philosophy with practical AI gover
 
 ### CTRL+J Juice Lounge & IT Hub™
 
-I founded **CTRL+J Juice Lounge & IT Hub LLC** to create an inclusive community technology space in New York's Mohawk Valley.
+I founded **CTRL+J Juice Lounge & IT Hub™ LLC** to create an inclusive community technology space in New York's Mohawk Valley.
 
 The planned venture brings together:
 
