@@ -39,6 +39,8 @@ Portfolio work emphasizes:
 
 Academic concentration in AI-driven cybersecurity, combined with a minor in AI Ethics & Philosophy, informs a design approach that prioritizes security effectiveness, accountability, and human impact.
 
+Alongside my cybersecurity and IT work, I am the founder of **CTRL+J Juice Lounge & IT Hub LLC**, a developing Mohawk Valley venture connecting community, accessible technology, and inclusive space design.
+
 I build security systems that think before they trust.
 
 Interested in contributing to:
@@ -148,6 +150,35 @@ Risk visibility and decision support
 👉 Install the extension and visit any website to see real-time risk insights
 
 Focuses on bridging the gap between technical security detection and real user understanding, making cybersecurity more accessible and actionable.
+
+---
+
+<hr>
+
+## Entrepreneurship & Community Technology
+
+### CTRL+J Juice Lounge & IT Hub™
+
+**Founder — CTRL+J Juice Lounge & IT Hub LLC**
+
+Developing an inclusive community technology space in New York's Mohawk Valley that brings together:
+
+- a juice lounge and social gathering space
+- IT support, digital-literacy opportunities, and technology assistance
+- study and remote-work areas
+- gaming stations and community events
+- an accessible Safe Haven for people of all ages and backgrounds
+
+CTRL+J is intended to welcome everyone regardless of race, religion, creed, disability, age, sexual orientation, or gender identity.
+
+The venture applies the same principles that guide my technical work:
+
+- technology should be understandable and accessible
+- privacy and security should be built in
+- people should be supported without judgment
+- community innovation should improve real human lives
+
+**Target opening:** July–August 2027
 
 ---
 
