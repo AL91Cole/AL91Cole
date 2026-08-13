@@ -1,356 +1,157 @@
 <p align="center">
-  <img src="./Portfolio_Header26.png" alt="Alan Cole AI Cybersecurity Header" width="100%" />
+  <img src="./Portfolio_Header26.png" alt="Alan Cole — AI-driven cybersecurity, ethical hacking, and human-centered security" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alan91cole">
+    <img src="https://img.shields.io/badge/LinkedIn-Alan_Cole-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Alan Cole on LinkedIn" />
+  </a>
+  <a href="https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden">
+    <img src="https://img.shields.io/badge/Chrome_Web_Store-AI_Guardian_Web_Shield-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install AI Guardian Web Shield from the Chrome Web Store" />
+  </a>
+  <a href="https://tryhackme.com/p/Alan91Cole">
+    <img src="https://img.shields.io/badge/TryHackMe-Alan91Cole-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="View Alan Cole's TryHackMe profile" />
+  </a>
+</p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/alan91cole"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
-  
-<img src="https://img.shields.io/badge/UAlbany-AI--Driven%20Cybersecurity-46166B?style=for-the-badge" /> 
+# Alan "Al" Cole
 
-<img src="https://img.shields.io/badge/Minor-AI%20Ethics%20%26%20Philosophy-6A1B9A?style=for-the-badge" /> 
+**Computer Technical Assistant | Cybersecurity Senior | Founder, CTRL+J Juice Lounge & IT Hub LLC**
 
-</p> <p align="center"> <img src="https://img.shields.io/badge/Zero%20Trust%20Architecture-0D47A1?style=flat-square" /> 
-  
-  <img src="https://img.shields.io/badge/Threat%20Detection-0D47A1?style=flat-square" /> 
-  
-  <img src="https://img.shields.io/badge/Incident%20Response-0D47A1?style=flat-square" /> 
-  
-  <img src="https://img.shields.io/badge/IAM%20%26%20Access%20Control-0D47A1?style=flat-square" /> 
-  
-  <img src="https://img.shields.io/badge/Explainable%20Security-0D47A1?style=flat-square" /> 
-  
-  </p>
+**Based in:** Mohawk Valley, New York
 
----
+I support K–12 technology as a Computer Technical Assistant at Fonda-Fultonville Central School District while completing my B.S. in Cybersecurity at the University at Albany. My academic work combines a self-designed concentration in **AI-Driven Cybersecurity & Ethical Hacking** with a minor in **AI Ethics & Philosophy**.
 
-## Profile
+I build privacy-conscious, human-centered defensive systems connecting Zero Trust, identity security, threat detection, accessibility, and accountable AI.
 
-Cybersecurity builder focused on designing Zero Trust, identity-aware defensive systems that improve how users and organizations make security decisions.
+> I build security systems that think before they trust—and explain before they alarm.
 
-Builds practical security projects that simulate real-world access control decisions, threat detection scenarios, and user-focused defensive tooling.
+## Current Roles and Education
 
-Portfolio work emphasizes:
-
-• least privilege access control and policy enforcement  
-• contextual authentication and risk-based decision logic  
-• security telemetry and structured logging concepts  
-• user-centered security tools with explainable outputs  
-• transparent, accountable, and ethical security design  
-
-Academic concentration in AI-driven cybersecurity, combined with a minor in AI Ethics & Philosophy, informs a design approach that prioritizes security effectiveness, accountability, and human impact.
-
-I build security systems that think before they trust.
-
-Interested in contributing to:
-
-Security Operations (SOC) • Identity Security (IAM) • Threat Detection • Security Engineering
-
----
-
-<hr>
-
-🧠 Core Mission
-
-To design and build an AI Guardian Assistant — a system that protects users in real time by combining:
-
-AI-driven decision support
-cybersecurity defense
-privacy protection
-identity-aware access control
-
-The goal is to create technology that not only detects threats but also helps users understand and respond to them safely.
-
----
-
-<hr>
+- **Computer Technical Assistant — Fonda-Fultonville Central School District**
+  - Supports K–12 users, endpoints, systems, troubleshooting, and day-to-day technology operations.
+- **Cybersecurity Senior — University at Albany (SUNY)**
+  - B.S. in Cybersecurity, expected May 2027
+  - Self-designed concentration: AI-Driven Cybersecurity & Ethical Hacking
+  - Minor: AI Ethics & Philosophy
+- **Founder — CTRL+J Juice Lounge & IT Hub LLC**
+  - Developing an inclusive community technology venture for the Mohawk Valley.
 
 ## Featured Work
 
-### AI Guardian Assistant — Project Labyrinth
-
-Designed to simulate how modern organizations make real-time access decisions under uncertainty, using Zero Trust principles and contextual risk signals.
-
-Demonstrates how security systems can move beyond static rules to dynamic, behavior-aware decision-making.
-
-Zero Trust security simulation platform designed to model how modern systems evaluate access requests using identity, behavior, and contextual risk signals.
-
-Simulates SOC-style alert generation based on anomalous access activity and decision outcomes.
-
-This project demonstrates how organizations apply Zero Trust principles to enforce access control, detect suspicious behavior, and support security decision-making in real-world environments.
-
-🧠 **Tech Stack:** Next.js • React • Tailwind • SQLite  
-
-🔗 **Repository:**  
-https://github.com/AL91Cole/ai-guardian-assistant-project-labyrinth
-
----
-
-### Key Capabilities
-
-• dynamic allow/deny / route decision logic  
-• identity-aware access evaluation using contextual risk signals (device trust, anomaly score)  
-• least privilege policy modeling and enforcement  
-• anomaly-aware decision factors for adaptive access control  
-• private vault with strict access boundaries  
-• structured audit logging simulating SOC-style event visibility  
-• deception routing (Labyrinth) for suspicious or high-risk sessions  
-
----
-
-### Security Concepts Demonstrated
-
-Zero Trust Architecture  
-Policy-based access control  
-Behavior-aware decision logic  
-Security logging and event visibility  
-Threat-aware defensive design  
-
-**Insights from hands-on lab training are applied in Project Labyrinth to simulate:**
-
-• security monitoring and alert generation  
-• identity-aware access decisions  
-• anomaly-based threat detection  
-
----
-
 ### AI Guardian Web Shield
 
-Privacy-first browser security assistant designed to help users identify risky websites, suspicious links, and potential phishing threats in real time through clear, explainable security insights.
+A published, privacy-first browser security extension that analyzes locally available webpage and link signals and turns them into calm, plain-language risk guidance.
 
-🛡️ **Live Chrome Extension (Install & Test):**  
-https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden
+- Helps users recognize phishing indicators, suspicious links, misleading domains, risky prompts, and manipulative urgency.
+- Prioritizes local-first analysis, accessibility, understandable explanations, and user choice.
+- Demonstrates browser security, human-centered threat communication, privacy-by-design, and defensive product development.
 
-💻 **Repository:**  
-https://github.com/AL91Cole/ai-guardian-web-shield
+**Explore:** [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden) · [View the repository](https://github.com/AL91Cole/ai-guardian-web-shield)
 
----
+### AI Guardian Assistant — Project Labyrinth
 
-### Key Capabilities
+A defensive Zero Trust simulation that evaluates access requests using identity, role, device trust, unusual behavior, MFA, and anomaly signals.
 
-• contextual site risk evaluation based on page behavior and patterns  
-• suspicious link and phishing indicator detection  
-• download risk awareness and signaling  
-• explanation-first security messaging for non-technical users  
-• privacy-conscious, local-first analysis approach  
+- Produces allow, deny, or deception-routing decisions.
+- Models least privilege, RBAC, private-vault boundaries, structured audit logging, and SOC-style visibility.
+- Uses decoy containment for suspicious sessions without offensive retaliation or hack-back behavior.
+- Built with Next.js, React, Tailwind CSS, and SQLite.
 
----
+**Explore:** [View Project Labyrinth](https://github.com/AL91Cole/ai-guardian-assistant-project-labyrinth)
 
-### Security Concepts Demonstrated
+### AI Ethics and Moral Philosophy
 
-Browser security awareness  
-Phishing detection principles  
-User-focused defensive tooling  
-Security communication design  
-Risk visibility and decision support  
+A living research repository connecting moral philosophy with practical AI governance and security design.
 
----
+- Develops my proposed framework of **bounded moral learning**.
+- Examines human responsibility, concentrated power, dignity, consent, privacy, accessibility, accountability, appeal, and repair.
+- Applies Unified Love to responsible AI while clearly separating personal philosophical proposals from established standards.
+- Connects ethical principles to Guardian systems, Zero Trust, defensive deception, and governance frameworks.
 
-👉 Install the extension and visit any website to see real-time risk insights
+**Explore:** [View AI Ethics and Moral Philosophy](https://github.com/AL91Cole/ai-ethics-and-moral-philosophy)
 
-Focuses on bridging the gap between technical security detection and real user understanding, making cybersecurity more accessible and actionable.
+## Entrepreneurship and Community Technology
 
----
+### CTRL+J Juice Lounge & IT Hub™
 
-<hr>
+I founded **CTRL+J Juice Lounge & IT Hub LLC** to create an inclusive community technology space in New York's Mohawk Valley.
 
-## Education
+The planned venture brings together:
 
-**University at Albany (SUNY)**  
-Bachelor of Science — Cybersecurity  
+- a juice lounge and welcoming social space
+- IT support, digital-literacy opportunities, and technology assistance
+- accessible study and remote-work areas
+- gaming stations, competitions, and community events
+- a Safe Haven for everyone—young people, older adults, students, remote workers, and community members of every background
 
-**Concentration:** AI-Driven Cybersecurity & Ethical Hacking  
-**Minor:** AI Ethics & Philosophy  
+CTRL+J is intended to welcome people regardless of race, religion, creed, disability, age, sexual orientation, or gender identity. Its guiding idea is simple: technology, community, accessibility, and human connection should strengthen one another.
 
-**Relevant Focus Areas**
+**Target opening:** July–August 2027
 
-• Identity and access management (IAM)  
-• Access control architecture and policy design  
-• Threat detection and security monitoring concepts  
-• Secure system design and defensive architecture  
-• Responsible and ethical AI systems   
-
----
-
-Focused on applying Zero Trust principles and identity-aware security design to real-world systems.
-
----
-
-<hr>
-
-## Core Competencies
-
-Applied skills developed through hands-on projects, simulations, and lab-based learning.
+## Technical Strengths
 
 ### Security Engineering
 
-• Zero Trust architecture and identity-aware access design  
-• Identity & Access Management (IAM) and RBAC enforcement  
-• Least privilege implementation and policy design  
-• Authentication and authorization workflows  
-• Threat detection concepts and behavioral analysis  
-• Incident response fundamentals and triage thinking  
-• Security logging and event visibility concepts  
-• Defense-in-depth strategy  
-• Risk-based decision logic  
+- Zero Trust architecture and identity-aware access design
+- IAM, RBAC, authentication, authorization, and least privilege
+- Risk-based policy decisions and defense-in-depth
+- Security logging, auditability, and event visibility
+- Privacy-conscious and threat-aware system design
 
----
+### Security Operations and Analysis
 
-### Security Operations (SOC Foundations)
+- Log review, anomaly recognition, and security-event interpretation
+- Incident-response and triage foundations
+- Threat modeling and attack-surface awareness
+- Phishing indicators and user-risk communication
+- Vulnerability awareness and risk prioritization
 
-• Security Operations Center (SOC) workflows  
-• Threat analysis and security event interpretation  
-• Log review and anomaly identification  
-• Attack surface awareness and basic threat modeling  
-• Vulnerability awareness and risk prioritization  
-• Phishing detection and user risk indicators  
-• Endpoint risk awareness  
+### Systems and IT Support
 
----
+- Windows and Linux environments
+- Endpoint and user troubleshooting
+- TCP/IP, DNS, DHCP, VPN, and networking fundamentals
+- System-hardening and access-control concepts
+- Clear technical documentation and user support
 
-### Systems & Infrastructure
+### Development
 
-• Windows and Linux environments  
-• TCP/IP networking fundamentals  
-• DNS, DHCP, and VPN concepts  
-• Endpoint troubleshooting  
-• Operating system fundamentals  
-• System hardening concepts  
+- JavaScript, React, Next.js, and Tailwind CSS
+- SQLite and SQL fundamentals
+- Python and PowerShell fundamentals
+- Git and GitHub
+- Accessible, explanation-first interface design
 
----
+## Credentials and Hands-On Learning
 
-### Development & Technical Tools
-
-• JavaScript, React, Next.js  
-• Tailwind CSS  
-• SQLite and SQL fundamentals  
-• Python fundamentals  
-• PowerShell fundamentals  
-
----
-
-### Professional Capabilities
-
-• Technical documentation  
-• Analytical reasoning  
-• Troubleshooting methodology  
-• Clear, structured communication  
-• Pattern recognition and problem solving  
-• Security-focused thinking  
-• Attention to detail  
-
----
-
-### Practical Exposure
-
-• Log analysis using simulated audit logs (Project Labyrinth)  
-• Hands-on labs via TryHackMe (networking, Linux, web security)  
-• Security event interpretation and basic investigation workflows  
-
----
-
-<hr>
-
-## Skills Matrix
-
-| Domain | Capabilities |
-|--------|-------------|
-| Identity Security | IAM, RBAC, authentication & authorization logic |
-| Defensive Architecture | Zero Trust architecture and policy enforcement |
-| Security Monitoring | Security logging and event visibility |
-| Risk Evaluation | Contextual risk analysis and decision logic |
-| Endpoint Support | OS troubleshooting (Windows/Linux) |
-| Networking | TCP/IP, DNS, DHCP fundamentals |
-| Secure Development | React, Next.js (security-focused UI design) |
-| Responsible AI | Ethical, explainable security design |
-| Threat Detection | Behavioral analysis | anomaly detection | Alert-Driven Response Logic
-
----
-
-<hr>
-
-## Hands-On Training
-
-🧪 **TryHackMe (Hands-On Cybersecurity Labs)**  
-https://tryhackme.com/p/Alan91Cole  
-
-Actively completing guided cybersecurity pathways and real-world simulation labs.
-
-**Certifications**  
-• Cyber Security 101 (SEC1)  
-• Pre Security (SEC0)  
-
-Hands-on lab experience across networking, Linux systems, web security, and foundational threat detection, reinforcing practical skills in security analysis, system behavior, and attack surface awareness.
-
-Directly supports development of SOC workflows, threat detection, and system-level security analysis.
-
-Applies lab-based learning to simulate real-world security scenarios, including monitoring, detection, and access control decision-making.
-
-**Key focus areas:**  
-• Network traffic analysis  
-• Web application security  
-• Security operations fundamentals  
-• Credential and password attack concepts  
-
----
-
-### Skill Development Snapshot (TryHackMe)
-
-Hands-on lab progression indicates strongest development in:
-
-• Security Operations and monitoring workflows  
-• Identity Security and access control  
-• Threat detection and behavioral analysis  
-
-Currently expanding skills in:
-
-• Incident response workflows  
-• Advanced attack techniques and exploitation  
-
----
-
-## Current Development Focus
-
-Expanding portfolio depth through hands-on projects and simulations in:
-
-• identity-aware system design and access control workflows  
-• defensive decision modeling using contextual risk signals  
-• practical Zero Trust architecture implementation  
-• security telemetry and event visibility concepts  
-• user-protective security tooling and UX design  
-• ethical and explainable security system design
-• simulated threat detection and anomaly-based alerting workflows
-
----
-
-<hr>
+- **Google Cybersecurity Professional Certificate**
+- **TryHackMe completed learning paths:** Cyber Security 101 and Pre Security
+- **ISC² Certified in Cybersecurity training:** completed; certification exam pending
+- Continuing hands-on practice through TryHackMe labs, local vulnerability audits, defensive simulations, and open-source project development
 
 ## Professional Direction
 
-Actively developing capabilities to contribute in:
+I am continuing to build toward work in:
 
-**Primary:** Security Operations (SOC) and Threat Detection  
-**Secondary:** Identity & Access Management (IAM)  
+- Security Operations and threat detection
+- Identity and Access Management
+- Security engineering and defensive architecture
+- Human-centered security product development
+- Responsible and accountable AI systems
 
-Focused on applying Zero Trust principles, behavioral analysis, and identity-aware security design to real-world defensive systems.
+My long-term goal is to bridge technical security, ethical governance, accessibility, and real-world human needs.
 
----
+## Guiding Principles
 
-<hr>
+- Security should be technically strong, ethically grounded, and understandable to the people it protects.
+- AI must not become a place where human decision-makers hide responsibility.
+- Privacy, dignity, accessibility, accountability, and meaningful user choice should be built into systems from the beginning.
+- Defensive security should protect and contain—not retaliate.
 
-## Contact
+## Connect
 
-🔗 **LinkedIn**  
-https://www.linkedin.com/in/alan91cole  
-
-💻 **GitHub**  
-https://github.com/AL91Cole  
-
----
-
-## Guiding Principle
-
-Security should be technically strong, ethically grounded, and designed with real users in mind.
-
-Building systems that balance protection, transparency, and human impact.
-
-— Alan Cole
+- [LinkedIn](https://www.linkedin.com/in/alan91cole)
+- [GitHub](https://github.com/AL91Cole)
+- [TryHackMe](https://tryhackme.com/p/Alan91Cole)
+- [AI Guardian Web Shield on the Chrome Web Store](https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden)
