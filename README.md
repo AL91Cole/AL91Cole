@@ -22,6 +22,8 @@
 
 I support K–12 technology as a Computer Technical Assistant at Fonda-Fultonville Central School District while completing my B.S. in Cybersecurity at the University at Albany. My academic work combines a self-designed concentration in **AI-Driven Cybersecurity & Ethical Hacking** with a minor in **AI Ethics & Philosophy**.
 
+My current priorities are completing my degree, pursuing **Career and Technical Education (CTE) certification**, and strengthening my career in K–12 IT and cybersecurity.
+
 I build privacy-conscious, human-centered defensive systems connecting Zero Trust, identity security, threat detection, accessibility, and accountable AI.
 
 > I build security systems that think before they trust—and explain before they alarm.
@@ -35,7 +37,7 @@ I build privacy-conscious, human-centered defensive systems connecting Zero Trus
   - Self-designed concentration: AI-Driven Cybersecurity & Ethical Hacking
   - Minor: AI Ethics & Philosophy
 - **Founder — CTRL+J Juice Lounge & IT Hub™ LLC**
-  - Developing an inclusive community technology venture for the Mohawk Valley.
+  - Founded an inclusive community technology venture for the Mohawk Valley; active development is currently on hold.
 
 ## Featured Work
 
@@ -77,7 +79,7 @@ A living research repository connecting moral philosophy with practical AI gover
 
 I founded **CTRL+J Juice Lounge & IT Hub™ LLC** to create an inclusive community technology space in New York's Mohawk Valley.
 
-The planned venture brings together:
+The long-term vision brings together:
 
 - a juice lounge and welcoming social space
 - IT support, digital-literacy opportunities, and technology assistance
@@ -87,7 +89,7 @@ The planned venture brings together:
 
 CTRL+J is intended to welcome people regardless of race, religion, creed, disability, age, sexual orientation, or gender identity. Its guiding idea is simple: technology, community, accessibility, and human connection should strengthen one another.
 
-**Target opening:** July–August 2027
+**Status:** On hold since October 12, 2026. CTRL+J remains a future goal, with no current opening commitment.
 
 ## Technical Strengths
 
