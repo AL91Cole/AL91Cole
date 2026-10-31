@@ -1,0 +1,24 @@
+# Local credentials and personal research material must stay outside the repository.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.har
+*.pcap
+*.pcapng
+private-data/
+conversation-exports/
+recordings/
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
