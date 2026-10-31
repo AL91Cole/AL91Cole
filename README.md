@@ -3,15 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alan91cole">
-    <img src="https://img.shields.io/badge/LinkedIn-Alan_Cole-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Alan Cole on LinkedIn" />
-  </a>
-  <a href="https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-AI_Guardian_Web_Shield-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install AI Guardian Web Shield from the Chrome Web Store" />
-  </a>
-  <a href="https://tryhackme.com/p/Alan91Cole">
-    <img src="https://img.shields.io/badge/TryHackMe-Alan91Cole-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="View Alan Cole's TryHackMe profile" />
-  </a>
+  <a href="https://www.linkedin.com/in/alan91cole">LinkedIn</a> ·
+  <a href="https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden">AI Guardian Web Shield on the Chrome Web Store</a> ·
+  <a href="https://tryhackme.com/p/Alan91Cole">TryHackMe</a>
 </p>
 
 # Alan "Al" Cole
@@ -157,3 +151,5 @@ My long-term goal is to bridge technical security, ethical governance, accessibi
 - [GitHub](https://github.com/AL91Cole)
 - [TryHackMe](https://tryhackme.com/p/Alan91Cole)
 - [AI Guardian Web Shield on the Chrome Web Store](https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden)
+
+[Security reporting and repository privacy](SECURITY.md)
