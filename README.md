@@ -6,7 +6,6 @@
   <a href="https://www.colelearninglabs.com">Cole Learning Labs</a> ·
   <a href="https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden">AI Guardian Web Shield</a> ·
   <a href="https://www.linkedin.com/in/alan91cole">LinkedIn</a> ·
-  <a href="https://tryhackme.com/p/Alan91Cole">TryHackMe</a>
 </p>
 
 # Hi, I'm Alan "Al" Cole 👋
