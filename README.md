@@ -23,11 +23,11 @@ Most of what I build sits where three things meet: **defensive security**, **acc
 
 | | |
 | --- | --- |
-| 🏫 **Now** | Computer Technical Assistant, Fonda-Fultonville CSD · B.S. Cybersecurity, UAlbany (expected May 2027) |
+| 🏫 **Now** | Computer Technical Assistant, Fonda-Fultonville CSD · B.S. Cybersecurity, UAlbany |
 | 🧭 **Heading toward** | Career and Technical Education (CTE) certification to teach Computer Technology, plus K–12 security operations and identity engineering |
 | 🛡️ **Building** | The Guardian family: local-first security tools, zero-trust simulations, and an ethics framework that ties them together |
 | 🧪 **Teaching with** | [Cole Learning Labs](https://www.colelearninglabs.com): 100 free, browser-based technology activities for grades K–12 |
-| 📍 **Based in** | Mohawk Valley, New York |
+| 📍 **Based in** | Capital Region, New York |
 | 💬 **Ask me about** | Zero Trust, phishing psychology, accessible security UX, AI ethics, or how to teach a 4th grader what a DHCP lease is |
 
 ## Things I genuinely enjoy
@@ -130,13 +130,15 @@ timeline
     section Foundations
         Earned : Google Cybersecurity Professional Certificate
                : APU Professional Certificate in Computer Systems and Networks
+               : CompTIA Security+ Certificate
+               : ISC2 Certified in Cybersecurity
         Founded : CTRL+J Juice Lounge & IT Hub LLC
     section Now (2026)
         Working : Computer Technical Assistant, Fonda-Fultonville CSD
         Shipped : AI Guardian Web Shield on the Chrome Web Store
                 : Cole Learning Labs with 100 free K-12 activities
         Studying : Cybersecurity senior at UAlbany
-                 : ISC2 CC exam ahead
+                 
     section 2027
         May : B.S. in Cybersecurity, University at Albany
         Next : Begin CTE certification to teach Computer Technology
@@ -201,10 +203,11 @@ My long-term goal is to bridge technical security, ethical governance, accessibi
 
 ## Credentials and hands-on learning
 
-- **B.S. in Cybersecurity**, University at Albany (SUNY), expected May 2027
+- **B.S. in Cybersecurity**, University at Albany
 - **Google Cybersecurity Professional Certificate**
-- **Professional Certificate in Computer Systems and Networks**, American Public University
-- **ISC2 Certified in Cybersecurity** training completed; certification exam pending
+- **Professional Certificate in Computer Systems and Networks**
+- **CompTIA Security+ Certificate**
+- **ISC2 Certified in Cybersecurity**
 - **TryHackMe** learning paths: Cyber Security 101 and Pre Security
 - Ongoing practice through TryHackMe labs, local vulnerability audits, defensive simulations, and open-source project development
 
