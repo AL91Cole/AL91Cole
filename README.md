@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.colelearninglabs.com">Cole Learning Labs</a> ·
   <a href="https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden">AI Guardian Web Shield</a> ·
-  <a href="https://www.linkedin.com/in/alan91cole">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/alan91cole">LinkedIn</a>
 </p>
 
 # Hi, I'm Alan "Al" Cole 👋
@@ -137,7 +137,6 @@ timeline
         Shipped : AI Guardian Web Shield on the Chrome Web Store
                 : Cole Learning Labs with 100 free K-12 activities
         Studying : Cybersecurity senior at UAlbany
-                 
     section 2027
         May : B.S. in Cybersecurity, University at Albany
         Next : Begin CTE certification to teach Computer Technology
@@ -244,7 +243,6 @@ CTRL+J welcomes people regardless of race, religion, creed, disability, age, sex
 - 🌐 [Cole Learning Labs](https://www.colelearninglabs.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alan91cole)
 - 🐙 [GitHub](https://github.com/AL91Cole)
-- 🎯 [TryHackMe](https://tryhackme.com/p/Alan91Cole)
 - 🛡️ [AI Guardian Web Shield on the Chrome Web Store](https://chromewebstore.google.com/detail/ipledehmklfhhdpobeogfdhmhdhmnden)
 
 <sub>This profile embeds no third-party images or trackers. See <a href="SECURITY.md">security reporting and repository privacy</a>.</sub>
