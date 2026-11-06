@@ -13,7 +13,7 @@
 
 **K–12 technology support by day · cybersecurity senior by night · builder of Guardians in between**
 
-I'm a Computer Technical Assistant at Fonda-Fultonville Central School District in New York's Capital Region, finishing a B.S. in Cybersecurity at the University at Albany (SUNY), with a self-designed concentration in **AI-Driven Cybersecurity & Ethical Hacking** and a minor in **AI Ethics & Philosophy**. Students know me as Mx. Cole.
+I'm a Computer Technical Assistant at Fonda-Fultonville Central School District in New York's Capital Region, finishing a B.S. in Cybersecurity at the University at Albany (SUNY), with a self-designed concentration in **AI-Driven Cybersecurity & Ethical Hacking** and a minor in **Psychology**. Students know me as Mx. Cole.
 
 Most of what I build sits where three things meet: **defensive security**, **accountable AI**, and **people who were never handed a manual**. I like systems that explain themselves, interfaces anyone can use, and AI that protects without pretending to be something it isn't.
 
